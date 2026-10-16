@@ -25,7 +25,9 @@ A = np.array([[6, 2, 3],[3, 1, 1],[10, 3, 4]])
 r = np.linalg.inv(A)
 
 print(r)
-<img width="762" height="177" alt="Exp 03 CR Inverse of a matrix  result" src="https://github.com/user-attachments/assets/822870a7-2401-4944-8b86-fd9b28aa323d" />
+
+
+<img width="1137" height="737" alt="Exp 03 CR Inverse of a matrix" src="https://github.com/user-attachments/assets/8c76c144-03f2-4d9a-a0f6-5097a8bd4c0d" />
 
 ## Output:<img width="762" height="177" alt="Exp 03 CR Inverse of a matrix  result" src="https://github.com/user-attachments/assets/14876d5d-698e-4acd-97f3-d97bbf724818" />
 
